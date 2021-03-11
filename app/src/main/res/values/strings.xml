@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoDownloader</string>
+    <string name="enter_video_url">Enter Video URL</string>
+    <string name="download_video">Download Video</string>
+</resources>
